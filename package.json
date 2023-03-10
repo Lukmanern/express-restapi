@@ -1,0 +1,14 @@
+{
+  "name": "dicoding-api-app",
+  "version": "1.0.0",
+  "description": "Bookshelf API Submission Dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Lukman Ernandi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
